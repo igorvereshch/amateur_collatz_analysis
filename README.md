@@ -1,0 +1,1 @@
+# amateur_collatz_analysis
